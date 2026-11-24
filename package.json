@@ -1,0 +1,9 @@
+{
+  "name": "agc-baseline-smoke",
+  "version": "0.1.0",
+  "private": true,
+  "description": "End-to-end smoke fixture for agent.cloud dependency baseline",
+  "dependencies": {
+    "semver": "7.5.1"
+  }
+}
