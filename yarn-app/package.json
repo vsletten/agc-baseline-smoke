@@ -1,0 +1,8 @@
+{
+  "name": "smoke-yarn",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "semver": "^7.5.1"
+  }
+}
